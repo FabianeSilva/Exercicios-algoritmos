@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b08020ca-9113-4c66-9dba-97fd3bb23384" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/DiaDaSemana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/IMC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/ImparPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/ImprimaMaiorMenorDeCinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/MaiorElementoDeCinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/MaiorValor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/MediaAritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/Multiplos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/MultiplosCinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/NumerosDecrescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/NumerosIguaisMaior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/SerieFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/SomaParesProdutoImpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/TabuadaDoSete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Algoritmos/ValoresParesEntreNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Desafio/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Desafio/BilheteUnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Desafio/BilheteUnicoComum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Desafio/BilheteUnicoEstudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Desafio/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Desafio/SistemaBilheteUnico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Desafio/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex10Empregado/Empregado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex10Empregado/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex11Supermercado/ItemPedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex11Supermercado/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex11Supermercado/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex11Supermercado/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex11Supermercado/Supermercado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex12PessoaEinstein/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex12PessoaEinstein/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex13Universidades/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex13Universidades/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex13Universidades/Universidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex14Alunos/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex14Alunos/Controle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex14Alunos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex15Calculadora/CalcControle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex15Calculadora/CalcDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex15Calculadora/CalcInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex15Calculadora/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex1PessoaAniversario/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex1PessoaAniversario/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex2Porta/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex2Porta/Porta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex3CasaPorta/Casa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex3CasaPorta/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex3CasaPorta/Porta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex4NomesPessoas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex5EmprestimoLivros/Emprestimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex5EmprestimoLivros/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex5EmprestimoLivros/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex5EmprestimoLivros/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometrica/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometrica/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometrica/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometrica/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometrica/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometricaFuncionando/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometricaFuncionando/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometricaFuncionando/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometricaFuncionando/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometricaFuncionando/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex6AreaFiguraGeometricaFuncionando/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex7Bhaskara/Delta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex7Bhaskara/Equacao2oGrau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex7Bhaskara/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex8ArvoreGenealogica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex8ArvoreGenealogica/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex9NumeracaoRomana/ConversorNumeracaoRomana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExerciciosPOO/Ex9NumeracaoRomana/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/Bhaskara.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/ConversaoTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/ConversaoTemperaturasCelsiusFahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/DiferencaMaiorMenor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/GraosDeTrigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/JuncaoMatrizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/MatrizGrausCelsius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/MatrizValidada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/MatrizesDivisiveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/NumerosImparesAte20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/OrdenacaoDecrescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/ReajusteSalarial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/SucessorAntecessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/ValorPositivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/ValoresInteirosPositivosAteNegativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Revisao_Geral/VetorDezNomes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/ArgumentoPositivoNegativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/Fahrenheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/FuncaoSomaMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/ListaDeProdutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/MaiorElementoVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/MetrosParaDecimetros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/QuantidadeDigitosNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/TemperaturaSemanal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/VetorCincoNomes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/VetorDobroValor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/VetorMultiplicadoX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/VetorOitoPosicoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/VetorOrdemCrescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Vetor_Funcoes/VetorSomentePares.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2hFVATCaTqzbph2lgGxQ9x0RxMi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Devi/Projeto2/Exercicio1/Index.html",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="02d7cba2-13cf-4747-90fc-cab656b2ca84" />
+      <option name="artifact" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="functionHostArguments" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b08020ca-9113-4c66-9dba-97fd3bb23384" name="Changes" comment="" />
+      <created>1717189669878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717189669878</updated>
+    </task>
+    <servers />
+  </component>
+</project>
